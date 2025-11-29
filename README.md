@@ -46,7 +46,7 @@ A comprehensive full-stack application for conducting technical assessments with
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/candidate-assessment.git
+git clone https://github.com/AmolMagar2000/Candidate-Assessment-Agentic-Platform.git
 cd candidate-assessment
 ```
 

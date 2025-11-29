@@ -1,0 +1,222 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Logs
+*.log
+llm_generation.log
+logs/
+*.log.*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+coverage.xml
+*.cover
+.cache
+nosetests.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# FastAPI / Uvicorn
+*.pid
+
+# Temp files
+temp/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# OS specific
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Certificates and Keys (IMPORTANT!)
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+
+# Backup files
+*.backup
+*~.nib
+
+# Application specific
+candidate_uploads/
+test_results/
+generated_reports/
+exports/
+
+# Local development
+local_settings.py
+*.local
+
+# Documentation builds
+docs/_build/
+site/
+
+# Profiling data
+*.prof
+
+# Docker (if you add Docker later)
+docker-compose.override.yml
+.dockerignore
+
+# Node modules (if you add frontend framework)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build outputs
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.Python
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Media files (exclude from repo if large)
+# Uncomment if you want to exclude media
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.mp4
+# *.pdf
+
+# Sensitive data
+secrets/
+credentials/
+api_keys.txt
+passwords.txt
+
+# Local configuration overrides
+config.local.py
+settings.local.py

@@ -1,0 +1,23 @@
+TOPICS FOR JAVA DEVELOPER MCQ:
+1. Core Java
+   - OOP Principles (Polymorphism, Encapsulation, Inheritance, Abstraction)
+   - String Pool and Immutability
+   - Exception Handling (Checked vs Unchecked, try-catch-finally)
+   - Java Collections Framework (ArrayList vs LinkedList, HashMap internals, HashSet)
+   - Java 8 Features (Lambdas, Streams API, Functional Interfaces)
+
+2. Spring Boot
+   - Dependency Injection and Inversion of Control (IoC)
+   - Annotations (@Component, @Service, @Repository, @Controller, @RestController)
+   - Spring Boot Starters and Auto-configuration
+   - Application.properties vs YAML
+   - Profiles (Dev, QA, Prod)
+
+3. Web Development
+   - REST API constraints
+   - HTTP Methods and Status Codes
+   - RequestBody vs RequestParam vs PathVariable
+
+4. Database
+   - JPA/Hibernate (Entity lifecycle, @Entity, @Id)
+   - Transaction Management (@Transactional)

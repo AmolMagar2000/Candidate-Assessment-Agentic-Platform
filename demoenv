@@ -1,0 +1,31 @@
+DATABASE_URL=postgresql://atsuser01:ATS_secure1@141.148.192.57:5432/ATSDB
+MISTRAL_API_URL=https://ai.omfysgroup.com/api/generate
+MISTRAL_MODEL=mistral:7b
+TIME_LIMIT_MINUTES=30
+MCQ_LIMIT=10
+ROLE=backend
+
+
+
+POSTGRES_HOST=80.225.236.70
+POSTGRES_PORT=5432
+POSTGRES_DB=ATSDB
+POSTGRES_USER=atsuser01
+POSTGRES_PASSWORD=ATS_secure1
+
+
+DB_USER=ANALYTICS
+DB_PASSWORD=Omfys@12345678
+DB_TNS_NAME="(description= (retry_count=20)(retry_delay=3)(address=(protocol>"
+WALLET_DIR=/home/ubuntu/ats-system/wallet_ANALYTICS
+
+LLM_URL=https://ai.omfysgroup.com/api/generate
+LLM_MODEL=mistral:7b
+
+API_URL=http://144.24.122.42:5000/Candidate/api/v1/application-details
+PDF_STORAGE_DIR=./resume_storage
+FETCH_INTERVAL_SECONDS=120
+
+# Application Settings
+DEBUG=False
+LOG_LEVEL=INFO

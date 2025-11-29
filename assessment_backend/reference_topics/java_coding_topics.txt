@@ -1,0 +1,38 @@
+CODING TOPICS FOR JAVA DEVELOPER:
+1. Algorithmic Logic
+   - Sliding window problems (maximum sum subarray, min length substring)
+   - Find the longest subarray with unique elements
+   - Merge overlapping intervals
+   - Longest substring without repeating characters
+   - Detect cycle in a linked list
+   - Binary search variations (rotated array, peak element)
+   - Reverse a linked list (iterative and recursive)
+
+2.  Data Structures
+   - Implement stack/queue from scratch using arrays or linked lists
+   - HashMap for frequency counting and indexing
+   - Custom comparator for sorting complex objects
+   - Tree traversal (inorder, preorder, postorder)
+   - Heap operations (find kth largest element)
+   - Generate all permutations and combinations of a given set/string
+   - N-Queens problem
+   - Word search in a 2D grid (backtracking)
+   - Edit distance (Levenshtein distance)
+
+3. Dynamic Programming Basics
+   - Fibonacci sequence
+   - Coin change problem
+   - Maximum subarray sum
+   - Climbing stairs
+   - Word ladder / shortest transformation sequence using BFS
+   - Topological sort and cycle detection in a directed graph
+   - All paths or number of paths in a DAG between two nodes
+   - Trapping rain water / largest rectangle in a histogram
+
+3.  SQL Problems
+   - Find nth highest salary from Employee table
+   - Multi-table joins (Employee, Department, Project associations)
+   - Complex GROUP BY & HAVING clauses (group by month/year)
+   - Window functions (ROW_NUMBER, RANK, DENSE_RANK)
+   - Subquery-based filtering (find employees without manager)
+   - Query optimization and index design

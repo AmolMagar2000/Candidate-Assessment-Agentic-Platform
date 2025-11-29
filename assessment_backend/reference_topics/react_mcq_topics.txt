@@ -1,0 +1,42 @@
+TOPICS FOR REACT DEVELOPER MCQ:
+1. React Core Concepts
+   - Virtual DOM vs Real DOM
+   - JSX syntax and limitations
+   - Components (Functional vs Class)
+   - Props vs State
+   - Unidirectional Data Flow
+   - Component composition and reusability
+
+2. Hooks
+   - useState (State management)
+   - useEffect (Side effects, dependency arrays, cleanup)
+   - useContext (Context API for global state)
+   - useRef (DOM access) and useMemo/useCallback (Performance optimization)
+   - Custom hooks creation and reuse
+
+3. Component Lifecycle
+   - Mounting, Updating, Unmounting phases
+   - Dependencies in effects
+   - When to use useEffect cleanup
+
+4. State Management
+   - Context API usage and limitations
+   - Redux basics (Actions, Reducers, Store, Dispatch)
+   - Prop drilling issues and solutions
+   - Local state vs global state
+
+5. Routing (React Router)
+   - BrowserRouter, Routes, Route
+   - Link vs NavLink
+   - useNavigate hook
+   - URL Parameters and query strings
+   - Nested routes
+
+6. JavaScript (ES6+) Fundamentals
+   - Arrow functions and regular functions
+   - Destructuring (Objects and Arrays)
+   - Spread/Rest operators
+   - Promises and Async/Await
+   - Closures and scope
+   - Higher-order functions
+   - Array methods (map, filter, reduce, find, forEach)

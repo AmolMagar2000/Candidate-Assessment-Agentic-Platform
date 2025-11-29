@@ -1,0 +1,36 @@
+services:
+  # Assessment Backend
+  assessment-backend:
+    build: ./assessment_backend
+    container_name: assessment_backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    depends_on:
+      - db
+
+  # Assessment Frontend
+  assessment-frontend:
+    build: ./assessment_frontend
+    container_name: assessment_frontend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - assessment-backend
+
+  # Postgres database for Assessment
+  db:
+    image: postgres:15
+    container_name: postgres_assessment
+    environment:
+      POSTGRES_USER: atsuser01
+      POSTGRES_PASSWORD: ATS_secure1
+      POSTGRES_DB: ATSDB
+    ports:
+      - "5431:5432"
+    volumes:
+      - postgres_assessment_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_assessment_data:

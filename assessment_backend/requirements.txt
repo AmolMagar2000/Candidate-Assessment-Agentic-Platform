@@ -1,0 +1,11 @@
+streamlit
+requests
+pyOpenSSL>=23.0.0
+cryptography>=39.0.0
+fastapi
+uvicorn[standard]
+SQLAlchemy
+python-dotenv
+psycopg2-binary
+pydantic[email]
+httpx

@@ -1,0 +1,24 @@
+TOPICS FOR JAVA DEVELOPER MCQ:
+Database & SQL
+   - SQL Basics (SELECT, JOIN, WHERE)
+   - Table Relationships and Normalization
+   - Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+   - GROUP BY, HAVING, Subqueries
+   - Indexing and Query Optimization
+   
+Core Java
+   - Data Types, Variables, and Arrays
+   - Control Statements and Loops
+   - OOP Principles (Polymorphism, Encapsulation, Inheritance, Abstraction)
+   - Constructors and Static Keyword
+   - String Handling (String vs StringBuilder vs StringBuffer, Immutability, Pool)
+   - Exception Handling (Checked vs Unchecked, try-catch-finally, Custom Exceptions)
+   - Collections Framework (List, Map, Set, ArrayList vs LinkedList, HashMap internals, HashSet)
+   - Java 8 Features (Lambdas, Streams API, Functional Interfaces, Optional)
+   - Multithreading Basics (Thread creation, Synchronization)
+
+Web & API
+   - REST API constraints and principles
+   - HTTP Methods and Status Codes
+   - Request Mapping, RequestBody vs RequestParam vs PathVariable
+   - Response handling and serialization

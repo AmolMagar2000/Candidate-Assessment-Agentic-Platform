@@ -1,0 +1,22 @@
+CODING TOPICS FOR REACT/FRONTEND:
+1. Core JS Coding & Logic Tasks
+- Build a counter using functions (increment, decrement, reset).
+- Implement a To-Do list using arrays and objects (add, edit, delete, mark complete).
+- Implement search, filter, and pagination logic on an array of data (simulate API data).
+- Create a modal toggle simulation (open/close states managed via variables).
+- Implement a simple form validation checker (required fields, email format, length limit).
+
+2. Intermediate JavaScript Logic
+- Implement debounce and throttle manually.
+- Flatten nested arrays/objects (both shallow and deep).
+- Perform deep equality check between two objects.
+- Implement a simple caching/memoization function.
+- Toggle dark/light theme using stored state simulation (localStorage mock).
+- Implement an infinite scroll data loader simulation (no React, only logic).
+
+3. Data Structures & Algorithms (JS Focus)
+- Implement LRU cache using Map and a doubly linked list (or arrays if simpler).
+- Implement a basic Trie for autocomplete suggestions from a word list.
+- Implement a Min/Max heap and use it for top-K elements in an array.
+- Implement deep clone for complex nested objects/arrays (handling edge cases like circular references can be a bonus).
+- Implement a simple diff between two objects (return added/removed/changed keys).

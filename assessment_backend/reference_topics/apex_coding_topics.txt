@@ -1,0 +1,31 @@
+CODING TOPICS FOR APEX/JAVA DEVELOPER:
+1. Algorithmic Logic
+   - Data Structures & Algorithms (arrays, linked lists, stacks, queues, hashmaps)
+   - Find longest subarray with given sum
+   - Merge overlapping intervals
+   - Longest substring without repeating characters
+   - Implement custom stack/queue operations
+   - Detect cycle in a linked list
+   - Binary search variations (rotated array, peak element)
+   - Sliding window problems (maximum sum subarray, min length)
+   - Tree traversal (inorder, preorder, postorder)
+   - Heap operations (find kth largest element)
+   - Generate all permutations and combinations of a given set/string
+   - N-Queens problem
+   - Word search in a 2D grid (backtracking)
+   - Edit distance (Levenshtein distance)
+
+2. Dynamic Programming Basics
+   - Fibonacci sequence
+   - Coin change problem
+   - Maximum subarray sum
+   - Climbing stairs
+
+3. SQL & Query Problems
+   - Multi-table joins with multiple conditions
+   - Aggregate functions with complex GROUP BY and HAVING
+   - Subqueries for finding top-N records per group
+   - Window Functions (ROW_NUMBER, RANK for ranking/partitioning)
+   - Query optimization using indexes
+   - Complex filtering with date/time conditions
+
